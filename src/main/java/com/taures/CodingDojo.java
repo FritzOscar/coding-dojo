@@ -1,4 +1,4 @@
-package de.taures;
+package com.taures;
 
 public class CodingDojo {
 
